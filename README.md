@@ -1,5 +1,3 @@
-# apk
-aethersx2 apk
 # AetherSX2 APK
 
 AetherSX2 is a PlayStation 2 emulator for Android that allows users to play PS2 games on supported Android devices. This repository provides information about the application and its features.
